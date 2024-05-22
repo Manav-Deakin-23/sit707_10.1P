@@ -26,12 +26,12 @@ public class OnTrackTests {
 	
 	@Test
 	public void testStudentIdentity() {
-	String studentId = "s223561446";
+	String studentId = "s223608412";
 	assertNotNull("Student ID is null", studentId);
 	}
 	@Test
 	public void testStudentName() {
-	String studentName = "Sandriya";
+	String studentName = "Manav Mehta";
 	assertNotNull("Student name is null", studentName);
 	}
 
